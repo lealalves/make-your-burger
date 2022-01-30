@@ -83,28 +83,6 @@
   ],
   "burgers": [
     {
-      "nome": "Rebeca",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Finalizado",
-      "id": 2
-    },
-    {
-      "nome": "Leal",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Tomate"
-      ],
-      "status": "Finalizado",
-      "id": 3
-    },
-    {
       "nome": "Silvia",
       "carne": "Maminha",
       "pao": "Integral",
