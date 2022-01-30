@@ -83,16 +83,17 @@
   ],
   "burgers": [
     {
-      "nome": "Silvia",
-      "carne": "Maminha",
-      "pao": "Integral",
+      "nome": "Leal",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
       "opcionais": [
-        "Pepino",
         "Tomate",
-        "Cebola roxa"
+        "Salame",
+        "Cheddar",
+        "Pepino"
       ],
       "status": "Em produção",
-      "id": 4
+      "id": 1
     }
   ]
 }
