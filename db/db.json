@@ -83,28 +83,26 @@
   ],
   "burgers": [
     {
+      "nome": "Rebeca",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Salame",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
       "nome": "Leal",
       "carne": "Picanha",
       "pao": "3 Queijos",
       "opcionais": [
-        "Bacon",
         "Salame",
-        "Pepino",
-        "Cheddar",
         "Tomate"
       ],
       "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Isabela",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 2
+      "id": 3
     }
   ]
 }
