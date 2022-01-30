@@ -97,68 +97,14 @@
       "id": 1
     },
     {
-      "nome": "Rebeca",
+      "nome": "Isabela",
       "carne": "Veggie burger",
       "pao": "Integral",
       "opcionais": [
-        "Tomate",
-        "Pepino"
+        "Tomate"
       ],
       "status": "Solicitado",
       "id": 2
-    },
-    {
-      "nome": "Isabela",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "Allana",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "nome": "Allana",
-      "carne": "Alcatra",
-      "pao": "Pão Mexicano",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
-      "nome": "Allana",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
-      "nome": "Isabela",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 7
     }
   ]
 }
