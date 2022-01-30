@@ -90,7 +90,7 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 2
     },
     {
@@ -101,8 +101,20 @@
         "Salame",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 3
+    },
+    {
+      "nome": "Silvia",
+      "carne": "Maminha",
+      "pao": "Integral",
+      "opcionais": [
+        "Pepino",
+        "Tomate",
+        "Cebola roxa"
+      ],
+      "status": "Em produção",
+      "id": 4
     }
   ]
 }
